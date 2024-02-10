@@ -21,7 +21,7 @@
   "Appearance-dark@@color-blue-rgb@@dark": "#027AFF",
   "Appearance-dark@@color-purple-rgb@@dark": "#A882FF",
   "Appearance-dark@@color-pink-rgb@@dark": "#FA99CD",
-  "Appearance-dark@@on-border-dark": "#1F1F28",
+  "Appearance-dark@@on-border-dark": "#8C8C9E",
   "Appearance-dark@@background-primary-alt@@dark": "#151519",
   "Appearance-dark@@background-secondary-alt@@dark": "#1A191F",
   "Appearance-dark@@workspace-background-translucent@@dark": "#1A191F",
@@ -29,12 +29,12 @@
   "Appearance-dark@@background-modifier-border-hover@@dark": "#3f3f3f",
   "Appearance-dark@@background-modifier-border-focus@@dark": "#555555",
   "Appearance-dark@@interactive-hover@@dark": "#8B6CEF",
-  "Appearance-dark@@background-activated-tab-header-dark": "#FFFFFF50",
+  "Appearance-dark@@background-activated-tab-header-dark": "#21202F",
   "Appearance-dark@@shadow-activated-tab-header-dark": "none",
   "Appearance-dark@@background-underlying-select-dark": "background-underlying-defalut-dark",
   "Appearance-dark@@card-layout-open-dark": true,
   "Appearance-dark@@background-mod-left-split-dark": "#1B1C21",
-  "Appearance-dark@@mod-right-split-background-select-dark": "mod-right-split-background-customize-dark",
+  "Appearance-dark@@mod-right-split-background-select-dark": "mod-right-split-background-primary-dark",
   "Appearance-dark@@background-mod-right-split-dark": "#1B1C21",
   "Mobile@@drawer-phone-full-width": false,
   "Appearance-dark@@indicator-remove-dark": true,
@@ -50,5 +50,6 @@
   "Components@@icon-autohide": true,
   "Components@@nav-header-autohide": false,
   "Components@@tab-title-bar-autohide": false,
-  "Components@@outline-enhanced": true
+  "Components@@outline-enhanced": true,
+  "Appearance-dark@@color-activated-tab-header-dark": "#FFFFFF"
 }
