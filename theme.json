@@ -37,7 +37,6 @@
   "Appearance-dark@@mod-right-split-background-select-dark": "mod-right-split-background-primary-dark",
   "Appearance-dark@@background-mod-right-split-dark": "#1B1C21",
   "Mobile@@drawer-phone-full-width": false,
-  "Appearance-dark@@indicator-remove-dark": true,
   "Components@@file-icon-remove": true,
   "Appearance-dark@@interactive-normal@@dark": "#504F6C",
   "Appearance-dark@@color-to-tab-icon-dark": true,
@@ -51,5 +50,17 @@
   "Components@@nav-header-autohide": false,
   "Components@@tab-title-bar-autohide": false,
   "Components@@outline-enhanced": true,
-  "Appearance-dark@@color-activated-tab-header-dark": "#FFFFFF"
+  "Appearance-dark@@color-activated-tab-header-dark": "#FFFFFF",
+  "Appearance-dark@@text-accent@@dark": "#8B6CEF",
+  "Appearance-dark@@text-on-accent@@dark": "#FFFFFF",
+  "Editor@@bold-color@@dark": "#6CA1F0",
+  "Editor@@link-color@@dark": "#8B6CEF",
+  "Editor@@link-external-color@@dark": "#8B6CEF",
+  "Editor@@link-external-color-hover@@dark": "#FFFFFF",
+  "Editor@@link-external-decoration-hover": "underline",
+  "Editor@@link-decoration-hover": "underline",
+  "Editor@@link-color-hover@@dark": "#FFFFFF",
+  "Editor@@line-hover-indicator": true,
+  "Editor@@link-unresolved-color@@dark": "#FF3636",
+  "Editor@@link-unresolved-decoration-style": "line-through"
 }
